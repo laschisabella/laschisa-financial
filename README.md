@@ -36,7 +36,7 @@ This project was developed using the following technologies:
 
 ```bash
 #1. Clone the repository:
-git clone https://github.com/your-username/laschisa-financial.git
+git clone https://github.com/laschisabella/laschisa-financial.git
 #2. Navigate to the project directory:
 cd laschisa-financial
 #3. Install the dependencies:
